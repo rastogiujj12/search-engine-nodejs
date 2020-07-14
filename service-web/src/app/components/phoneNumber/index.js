@@ -4,13 +4,14 @@ import {withRouter} from "react-router-dom";
 
 class PhoneNumberComponent extends Component {
     render() {
-        // console.log('phoneNumber', this.props);
+        let callLink = `tel:${this.props.phoneNumber}`
         return (
             <div className = "phoneNumberContainer">
                 {this.props.title} / {this.props.subTitle}
                 <hr/>
                 <div className="phoneNumber">
-                    {this.props.phoneNumber}
+                    
+                    <a href={callLink}> {this.props.phoneNumber}</a>
                 </div>
             </div>
         )

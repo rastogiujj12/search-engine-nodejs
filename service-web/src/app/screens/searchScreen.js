@@ -30,7 +30,7 @@ export class SearchScreen extends Component {
             data: [],
             q: params.q,
             page: params.page,
-            backendUrl: "http://localhost:3001/api/search?search=",
+            backendUrl: "http://iskanje.co.uk/api/search?search=",
             firstPage: firstPage,
             lastPage: lastPage,
             totalPage: TOTAL_PAGE,
@@ -63,16 +63,13 @@ export class SearchScreen extends Component {
         this.props.history.push(url);
         this.setState({isLoaded: false, data: []});
 
-        // console.log('getURL ',getUrl);
-        console.log('>>>', url);
         this.getSearchResults(getUrl);
-        // console.log('data', this.state.data);
+        
     }
 
     onPageChange(page) {
         let firstPage = Math.floor(parseInt(page) / this.state.totalPage) * this.state.totalPage;
         let lastPage = firstPage + this.state.totalPage;
-        // console.log('lastpage ', lastPage);
         this.setState({
             firstPage: firstPage,
             lastPage: lastPage,
