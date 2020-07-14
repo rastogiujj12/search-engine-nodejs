@@ -78,7 +78,7 @@ export class TermsAndService extends Component {
                                 in the U.K. and in other countries. You must comply with all such laws and
                                 applicable copyright, trademark or other legal notices or restrictions. You
                                 shall not remove or alter any copyright, trademark, or other legal notices
-                                marked on the Content. As between you and Buscador, Buscador.co.uk will
+                                marked on the Content. As between you and iskanje, iskanje.co.uk will
                                 retain all right, title, and interest in and to the Services and the
                                 Content. No transfer of ownership to any portion of the Content shall be
                                 made as a result of any access you are granted. Except as specifically
@@ -218,7 +218,7 @@ export class TermsAndService extends Component {
                             </ol>
                             <p>
                                 You must obtain our written permission for commercial use of the Content or
-                                the Services. If you wish to license Content from the Services, please    <u><a href="mailto:info@Buscador.co.uk">contact us</a></u>.
+                                the Services. If you wish to license Content from the Services, please    <u><a href="mailto:info@iskanje.co.uk">contact us</a></u>.
                             </p>
                             <ul>
                                 <li>
@@ -228,16 +228,16 @@ export class TermsAndService extends Component {
                                 </li>
                             </ul>
                             <p>
-                                Buscador.co.uk and its affiliates respects intellectual property rights. If
+                                iskanje.co.uk and its affiliates respects intellectual property rights. If
                                 you believe that Content on the Services infringes your copyright, please
                                 follow our procedures for making a
                                 <u>
-                                    <a href="mailto:copyright@Buscador.co.uk">
+                                    <a href="mailto:copyright@iskanje.co.uk">
                                         copyright infringement claim
                                     </a>
                                 </u>
                                 . If you have a legal complaint other than a copyright claim, please follow
-                                our procedure for making    <u><a href="mailto:legal@Buscador.co.uk">other legal complaints</a></u>.
+                                our procedure for making    <u><a href="mailto:legal@iskanje.co.uk">other legal complaints</a></u>.
                             </p>
                             <ul>
                                 <li>
@@ -251,7 +251,7 @@ export class TermsAndService extends Component {
                                 text, or other materials, including so-called “user generated content” and
                                 “feedback” (collectively, “<strong>User Submissions</strong>”) to or
                                 through the Services. When you provide User Submissions, you grant to
-                                Buscador.co.uk and its affiliates a non-exclusive, worldwide, royalty-free,
+                                iskanje.co.uk and its affiliates a non-exclusive, worldwide, royalty-free,
                                 perpetual, irrevocable, fully sublicenseable license to use, reproduce,
                                 archive, edit, translate, create derivative works of, make available,
                                 distribute, sell, display, perform, transmit, broadcast and in any other
@@ -309,7 +309,7 @@ export class TermsAndService extends Component {
                             </p>
                             <p>
                                 You bear all responsibility for your User Submissions. You represent and
-                                warrant that you have all rights necessary to grant to Buscador.co.uk the
+                                warrant that you have all rights necessary to grant to iskanje.co.uk the
                                 license above and that your User Submissions do not violate Section 11.
                             </p>
                             <ul>
@@ -363,7 +363,7 @@ export class TermsAndService extends Component {
                                         available via in-line links, otherwise display the Services or
                                         Content in connection with an unauthorized logo or mark, or do
                                         anything that could falsely suggest a relationship between the
-                                        Buscador.co.uk or its affiliates and any third party or potentially
+                                        iskanje.co.uk or its affiliates and any third party or potentially
                                         deprive us of revenue (including, without limitation, revenue from
                                         advertising, branding, or promotional activities);
                                     </p>
@@ -427,7 +427,7 @@ export class TermsAndService extends Component {
                                     <p>
                                         Transmit, collect, or access personally identifiable information
                                         about other users without the consent of those users and
-                                        Buscador.co.uk;
+                                        iskanje.co.uk;
                                     </p>
                                 </li>
                                 <li>
@@ -507,7 +507,7 @@ export class TermsAndService extends Component {
                             <p>
                                 We will not be liable to you or any third party for taking any of these
                                 actions and we will not be limited to the remedies above if you violate
-                                these Terms. If Buscador.co.uk terminates your access to any of the Services,
+                                these Terms. If iskanje.co.uk terminates your access to any of the Services,
                                 you must immediately stop using such Service. However, if you have paid for
                                 a subscription to All Access or another paid Service, and we discontinue
                                 the Service before the end of a paid subscription period, or we terminate
@@ -525,15 +525,15 @@ export class TermsAndService extends Component {
                                 </li>
                             </ul>
                             <p>
-                                You will defend, indemnify and hold harmless Buscador.co.uk, its affiliates,
+                                You will defend, indemnify and hold harmless iskanje.co.uk, its affiliates,
                                 and their respective directors, officers, employees, shareholders, vendors,
                                 partners, contractors, agents, licensors or other representatives and all
-                                of their successors and assigns (collectively, the “    <strong>Buscador.co.uk Parties</strong>”) with respect to all third party
+                                of their successors and assigns (collectively, the “    <strong>iskanje.co.uk Parties</strong>”) with respect to all third party
                                 claims, costs (including attorney’s fees and costs), damages, liabilities,
                                 and expenses or obligations of any kind, arising out of or in connection
                                 with your use or misuse of the Services (including, without limitation use
                                 of your account, whether or not authorized by you, and claims arising from
-                                User Submissions). Buscador.co.uk retains the right to assume the exclusive
+                                User Submissions). iskanje.co.uk retains the right to assume the exclusive
                                 defense and control of any claim subject to indemnification, and in such
                                 cases you agree to cooperate with us to defend such claim.
                             </p>
@@ -541,7 +541,7 @@ export class TermsAndService extends Component {
                                 <strong>Disclaimers; Limitation of Liability</strong>
                             </p>
                             <p>
-                                THE BUSCADOR.CO.UK PARTIES DO NOT WARRANT: (1) THAT THE SERVICES, ANY OF THE
+                                THE iskanje.CO.UK PARTIES DO NOT WARRANT: (1) THAT THE SERVICES, ANY OF THE
                                 SERVICES’ FUNCTIONS OR ANY CONTENT WILL BE UNINTERRUPTED OR FREE OF ERRORS
                                 OR OMISSIONS; (2) THAT DEFECTS WILL BE CORRECTED; (3) THAT THE SERVICES OR
                                 THE SERVERS HOSTING THEM ARE FREE OF VIRUSES OR OTHER HARMFUL CODE; OR (4)
@@ -562,30 +562,30 @@ export class TermsAndService extends Component {
                                 SERVICES.
                             </p>
                             <p>
-                                THE BUSCADOR.CO.UK PARTIES WILL NOT BE LIABLE FOR ANY FAILURE OR DELAY IN
+                                THE iskanje.CO.UK PARTIES WILL NOT BE LIABLE FOR ANY FAILURE OR DELAY IN
                                 THEIR PERFORMANCE DUE TO ANY CAUSE BEYOND THEIR REASONABLE CONTROL,
                                 INCLUDING ACTS OF WAR, ACTS OF GOD, ACTS OF THIRD PARTIES, EARTHQUAKE,
                                 FLOOD, EMBARGO, RIOT, SABOTAGE, LABOR SHORTAGE OR DISPUTE, GOVERNMENTAL
                                 ACT, POWER FAILURE OR FAILURE OF THE INTERNET OR COMPUTER EQUIPMENT.
                             </p>
                             <p>
-                                THE BUSCADOR.CO.UK PARTIES WILL NOT BE LIABLE TO YOU OR ANYONE ELSE FOR ANY
+                                THE iskanje.CO.UK PARTIES WILL NOT BE LIABLE TO YOU OR ANYONE ELSE FOR ANY
                                 SPECIAL, INDIRECT, INCIDENTAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES
                                 IN CONNECTION WITH THE SERVICES (INCLUDING THEIR FUNCTIONS AND CONTENT),
                                 YOUR USE OF THE SERVICES (INCLUDING THEIR FUNCTIONS AND CONTENT), THESE
                                 TERMS OR YOUR USER SUBMISSIONS, EVEN IF FORESEEABLE OR EVEN IF ONE OR MORE
-                                OF THE BUSCADOR.CO.UK PARTIES HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+                                OF THE iskanje.CO.UK PARTIES HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
                                 DAMAGES (INCLUDING, WITHOUT LIMITATION, WHETHER CAUSED IN WHOLE OR IN PART
                                 BY NEGLIGENCE, GROSS NEGLIGENCE, OR OTHERWISE, BUT EXCLUDING WILLFUL
                                 MISCONDUCT).
                             </p>
                             <p>
                                 YOU ACKNOWLEDGE AND AGREE THAT IF YOU INCUR ANY DAMAGES THAT ARISE OUT OF
-                                THE BUSCADOR.CO.UK PARTIES’ ACTS OR OMISSIONS, THE DAMAGES, IF ANY, ARE NOT
+                                THE iskanje.CO.UK PARTIES’ ACTS OR OMISSIONS, THE DAMAGES, IF ANY, ARE NOT
                                 IRREPARABLE AND ARE NOT SUFFICIENT TO ENTITLE YOU TO AN INJUNCTION OR OTHER
                                 EQUITABLE RELIEF RESTRICTING OPERATION OF THE SERVICES OR ANY OTHER
                                 SERVICE, PROPERTY, PRODUCT, OR OTHER CONTENT OWNED OR CONTROLLED BY THE
-                                BUSCADOR.CO.UK PARTIES.
+                                iskanje.CO.UK PARTIES.
                             </p>
                             <ul>
                                 <li>
@@ -625,7 +625,7 @@ export class TermsAndService extends Component {
                                 If you have any dispute with or claim against us or any of our affiliates,
                                 or if we have a dispute with or claim against you, in either case arising
                                 out of or relating to the Services or these Terms (a “    <strong>Claim</strong>”), and the Claim is not resolved by contacting our
-                                legal department at    <u><a href="mailto:legal@buscador.co.uk">legal@buscador.co.uk</a></u>, you and
+                                legal department at    <u><a href="mailto:legal@iskanje.co.uk">legal@iskanje.co.uk</a></u>, you and
                                 we each agree to resolve such Claim through an individual binding
                                 arbitration or through an individual action in small claims court in the
                                 U.K. county (or parish) of your residence or in Birmingham, United Kingdom.
@@ -639,10 +639,10 @@ export class TermsAndService extends Component {
                             </p>
                             <p>
                                 Before you or we commence an arbitration or file a small claims court
-                                action with respect to a Claim, you must first send to Buscador.co.uk a
+                                action with respect to a Claim, you must first send to iskanje.co.uk a
                                 written notice of your claim or we must send a written notice of our claim
                                 to you (“<strong>Notice</strong>“). Your Notice must (1) be sent by
-                                certified mail; (2) be addressed to: Legal Department, Buscador.co.uk, 62
+                                certified mail; (2) be addressed to: Legal Department, iskanje.co.uk, 62
                                 Shenstone Road, Great Barr, Birmingham, B43 5LN ; (3) describe the nature
                                 of your Claim; and (4) specify the damages or other relief you seek. If we
                                 and you do not then resolve the Claim within 30 days after our receipt of

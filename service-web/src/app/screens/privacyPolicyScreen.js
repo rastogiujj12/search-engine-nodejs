@@ -16,16 +16,16 @@ export class PrivacyPolicyScreen extends Component {
                         <div className="privacy-content-row">
                             <p>
                                 This Privacy Policy applies to information collected about you by the
-                                Buscador.co.uk. Please review this Privacy Policy carefully. In addition,
+                                iskanje.co.uk. Please review this Privacy Policy carefully. In addition,
                                 please review our Terms of Use, which governs your use of the website
-                                Buscador.co.uk. By using any of the website services, you acknowledge the
+                                iskanje.co.uk. By using any of the website services, you acknowledge the
                                 data collection practices and purposes outlined in this Privacy Policy.
                             </p>
                             <p>
                                 <strong>TYPES OF INFORMATION WE COLLECT</strong>
                             </p>
                             <p>
-                                When you use Buscador.co.uk, we collect a few different types, or
+                                When you use iskanje.co.uk, we collect a few different types, or
                                 “categories,” of information. This information generally falls within three
                                 broad categories: (a) the information you provide to us, (b) the
                                 information we collect automatically when you use our services, and (c)
@@ -41,7 +41,7 @@ export class PrivacyPolicyScreen extends Component {
                                 We and our service providers operating on our behalf, other businesses who
                                 collect information on our pages, may automatically collect or receive
                                 certain information associated with you and/or your device(s) as part of
-                                your use of the Buscador.co.uk through device-based tracking technologies
+                                your use of the iskanje.co.uk through device-based tracking technologies
                                 such as cookies, pixels, tags, beacons, scripts or other technology. The
                                 information we collect automatically includes geolocation data, such as (a)
                                 information that identifies the precise location of your mobile device
@@ -55,7 +55,7 @@ export class PrivacyPolicyScreen extends Component {
                                 <strong>Information We Obtain From Other Sources</strong>
                             </p>
                             <p>
-                                The Buscador.co.uk collects information about you from other sources, such as
+                                The iskanje.co.uk collects information about you from other sources, such as
                                 publicly available databases and other third parties that have the right to
                                 share your personal information. The categories of information we get from
                                 these other sources include:
@@ -97,7 +97,7 @@ export class PrivacyPolicyScreen extends Component {
                                 <li>
                                     <p>
                                         Account and profile data from third-party sources. If you access a
-                                        Buscador.co.uk Service through one of the services, we may receive
+                                        iskanje.co.uk Service through one of the services, we may receive
                                         your username and password for those services and other information
                                         available about you or collected from you on those services, used
                                         to customize content and advertising and learn about our audiences
@@ -281,7 +281,7 @@ export class PrivacyPolicyScreen extends Component {
                                 You have certain options and rights related to the information we collect
                                 and how that information is used. While we must continue to collect and
                                 store certain information that is required to allow you to take advantage
-                                of certain features and services offered on Buscador.co.uk or to comply with
+                                of certain features and services offered on iskanje.co.uk or to comply with
                                 legal, financial or other operational or regulatory requirements, your
                                 options for managing your information and privacy choices include:
                             </p>
@@ -324,7 +324,7 @@ export class PrivacyPolicyScreen extends Component {
                                 to help protect your information from loss, misuse, unauthorized access,
                                 and alteration. Please note that no data transmission or storage can be
                                 guaranteed to be 100% secure. We want you to feel confident using
-                                Buscador.co.uk Services but we cannot ensure or warrant the security of any
+                                iskanje.co.uk Services but we cannot ensure or warrant the security of any
                                 information you transmit to us.
                             </p>
                             <p>
@@ -341,7 +341,7 @@ export class PrivacyPolicyScreen extends Component {
                                 residence. Your personal information may be subject to the laws of the
                                 country to which it is transferred and may be accessible without notice to
                                 you by the courts, law enforcement and national security authorities of
-                                that country. By using Buscador.co.uk Services or providing us with your
+                                that country. By using iskanje.co.uk Services or providing us with your
                                 information, you acknowledge the collection, international transfer,
                                 storage, and processing of your information.
                             </p>
@@ -392,14 +392,14 @@ export class PrivacyPolicyScreen extends Component {
                                 <strong>QUESTIONS</strong>
                             </p>
                             <p>
-                                If you have questions regarding this Privacy Policy, please contact us at    <a href="mailto:privacy@buscador.co.uk">privacy@buscador.co.uk</a> and we will
+                                If you have questions regarding this Privacy Policy, please contact us at    <a href="mailto:privacy@iskanje.co.uk">privacy@iskanje.co.uk</a> and we will
                                 endeavor to respond to your request within a reasonable period of time. You
                                 may also submit questions or comments using the postal address listed
                                 below:
                             </p>
                             <p>
                                 <strong>
-                                    Legal Department, Buscador.co.uk, 62 Shenstone Road, Great Barr,
+                                    Legal Department, iskanje.co.uk, 62 Shenstone Road, Great Barr,
                                     Birmingham, B43 5LN
                                 </strong>
                             </p>
