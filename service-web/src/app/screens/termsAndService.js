@@ -218,7 +218,7 @@ export class TermsAndService extends Component {
                             </ol>
                             <p>
                                 You must obtain our written permission for commercial use of the Content or
-                                the Services. If you wish to license Content from the Services, please    <u><a href="mailto:contactus@iskanje.co.uk">contact us</a></u>.
+                                the Services. If you wish to license Content from the Services, please    <u><a href="mailto:contact@iskanje.co.uk">contact us</a></u>.
                             </p>
                             <ul>
                                 <li>
@@ -230,7 +230,7 @@ export class TermsAndService extends Component {
                             <p>
                                 iskanje.co.uk and its affiliates respects intellectual property rights. If
                                 you believe that Content on the Services infringes your copyright, please
-                                follow our procedures for making a 
+                                follow our procedures for making a    
                                 <u>
                                     <a href="mailto:copyright@iskanje.co.uk">
                                         copyright infringement claim
