@@ -384,7 +384,7 @@ export class PrivacyPolicyScreen extends Component {
                                 changes to the way we use personal information we collect, we will notify
                                 you in advance by email through the email address you most recently
                                 provided to us or by prominently posting a prominent notice of the changes
-                                on the Ishkanje.co.uk Services. We will not use information we have already
+                                on the Iskanje.co.uk Services. We will not use information we have already
                                 collected in a different way than we have described here, without your
                                 consent.
                             </p>
@@ -399,7 +399,7 @@ export class PrivacyPolicyScreen extends Component {
                             </p>
                             <p>
                                 <strong>
-                                    Legal Department, iskanje.co.uk, 62 Shenstone Road, Great Barr,
+                                    Legal Department, Iskanje.co.uk, 62 Shenstone Road, Great Barr,
                                     Birmingham, B43 5LN
                                 </strong>
                             </p>

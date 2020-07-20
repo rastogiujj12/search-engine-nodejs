@@ -228,14 +228,9 @@ export class TermsAndService extends Component {
                                 </li>
                             </ul>
                             <p>
-                                iskanje.co.uk and its affiliates respects intellectual property rights. If
+                                Iskanje.co.uk and its affiliates respects intellectual property rights. If
                                 you believe that Content on the Services infringes your copyright, please
-                                follow our procedures for making a    
-                                <u>
-                                    <a href="mailto:copyright@iskanje.co.uk">
-                                        copyright infringement claim
-                                    </a>
-                                </u>
+                                follow our procedures for making a    <u><a href="mailto:copyright@iskanje.co.uk">copyright infringement claim</a></u>
                                 . If you have a legal complaint other than a copyright claim, please follow
                                 our procedure for making    <u><a href="mailto:legal@iskanje.co.uk">other legal complaints</a></u>.
                             </p>
@@ -642,7 +637,7 @@ export class TermsAndService extends Component {
                                 action with respect to a Claim, you must first send to iskanje.co.uk a
                                 written notice of your claim or we must send a written notice of our claim
                                 to you (“<strong>Notice</strong>“). Your Notice must (1) be sent by
-                                certified mail; (2) be addressed to: Legal Department, iskanje.co.uk, 62
+                                certified mail; (2) be addressed to: Legal Department, Iskanje.co.uk, 62
                                 Shenstone Road, Great Barr, Birmingham, B43 5LN ; (3) describe the nature
                                 of your Claim; and (4) specify the damages or other relief you seek. If we
                                 and you do not then resolve the Claim within 30 days after our receipt of

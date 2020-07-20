@@ -16,7 +16,7 @@ class FooterComponent extends Component {
                         </div>
                         <div className="footer__column footer__column_right">
                             <div className = "footer__menu--mr"><a className="footer__menu--item" href="mailto:contact@iskanje.co.uk">Contact Us</a></div>
-                            <p className="footer__menu--item footer__menu--settings">© {new Date().getFullYear()} iskanje. All Rights Reserved.</p>
+                            <p className="footer__menu--item footer__menu--settings">© {new Date().getFullYear()} Iskanje. All Rights Reserved.</p>
                         </div>
                     </nav>
                 </footer>
