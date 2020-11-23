@@ -399,8 +399,8 @@ export class PrivacyPolicyScreen extends Component {
                             </p>
                             <p>
                                 <strong>
-                                    Legal Department, Explorenow.nl, 62 Shenstone Road, Great Barr,
-                                    Birmingham, B43 5LN
+                                    Strawinskylaan 3051 Atrium Building 4th Floor,
+                                    1077 ZX Amsterdam, Netherlands
                                 </strong>
                             </p>
                             <p>
