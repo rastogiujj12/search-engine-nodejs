@@ -30,7 +30,7 @@ export class SearchScreen extends Component {
             data: [],
             q: params.q,
             page: params.page,
-            backendUrl: "https://iskanje.co.uk/api/search?search=",
+            backendUrl: "https://explorenow.nl/api/search?search=",
             firstPage: firstPage,
             lastPage: lastPage,
             totalPage: TOTAL_PAGE,
