@@ -399,8 +399,7 @@ export class PrivacyPolicyScreen extends Component {
                             </p>
                             <p>
                                 <strong>
-                                    Strawinskylaan 3051 Atrium Building 4th Floor,
-                                    1077 ZX Amsterdam, Netherlands
+                                19 Boulevard Malesherbes, 75008 Paris, France
                                 </strong>
                             </p>
                             <p>

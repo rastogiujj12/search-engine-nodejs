@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "810577fd6f56ff105f24",
+    "revision": "c9df443804f0a8b8a9cc",
     "url": "/static/css/main.5e89444c.chunk.css"
   },
   {
-    "revision": "810577fd6f56ff105f24",
-    "url": "/static/js/main.4c59bbb8.chunk.js"
+    "revision": "c9df443804f0a8b8a9cc",
+    "url": "/static/js/main.84bf7455.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -20,16 +20,16 @@ self.__precacheManifest = [
     "url": "/static/js/2.fb48ab61.chunk.js"
   },
   {
+    "revision": "ddedacaeb6bcc8634ee864b3a4422b84",
+    "url": "/static/media/Lato-Black.ddedacae.woff2"
+  },
+  {
     "revision": "f21ec1ef673d97424fa24c6569c61e2f",
     "url": "/static/media/Lato-Black.f21ec1ef.eot"
   },
   {
     "revision": "29a00908df6fafd9ec52a6b96b0ebbea",
     "url": "/static/media/Lato-Black.29a00908.woff"
-  },
-  {
-    "revision": "ddedacaeb6bcc8634ee864b3a4422b84",
-    "url": "/static/media/Lato-Black.ddedacae.woff2"
   },
   {
     "revision": "77d353744697c77955f9bacc7f3ed90a",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/static/media/Lato-Light.5b761f2d.ttf"
   },
   {
-    "revision": "edc76eeafaa9135b8aa5f765925bdee7",
+    "revision": "efa1bedc5cd1bc411d64c51c2d7db66e",
     "url": "/index.html"
   }
 ];
