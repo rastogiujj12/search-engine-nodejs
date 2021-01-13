@@ -12,11 +12,11 @@ class FooterComponent extends Component {
                         <div className="footer__column footer__column_left">
                             <a className="footer__menu--item" href="/privacy">Privacy</a> 
                             <a className="footer__menu--item" href="/TOS">Terms of service</a>
-                            <a className="footer__menu--item footer__menu--mr" href="mailto:legal@explorenow.nl" target="blank">Legal</a> 
+                            <a className="footer__menu--item footer__menu--mr" href="mailto:legal@searcheress.com" target="blank">Legal</a> 
                         </div>
                         <div className="footer__column footer__column_right">
-                            <div className = "footer__menu--mr"><a className="footer__menu--item" href="mailto:contact@explorenow.nl">Contact Us</a></div>
-                            <p className="footer__menu--item footer__menu--settings">© {new Date().getFullYear()} Explorenow. All Rights Reserved.</p>
+                            <div className = "footer__menu--mr"><a className="footer__menu--item" href="mailto:contact@searcheress.com">Contact Us</a></div>
+                            <p className="footer__menu--item footer__menu--settings">© {new Date().getFullYear()} Searcheress. All Rights Reserved.</p>
                         </div>
                     </nav>
                 </footer>
