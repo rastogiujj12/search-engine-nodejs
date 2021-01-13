@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9a838a67cbb77ca9cec3",
+    "revision": "810577fd6f56ff105f24",
     "url": "/static/css/main.5e89444c.chunk.css"
   },
   {
-    "revision": "9a838a67cbb77ca9cec3",
-    "url": "/static/js/main.b3c89b0c.chunk.js"
+    "revision": "810577fd6f56ff105f24",
+    "url": "/static/js/main.4c59bbb8.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -20,6 +20,10 @@ self.__precacheManifest = [
     "url": "/static/js/2.fb48ab61.chunk.js"
   },
   {
+    "revision": "f21ec1ef673d97424fa24c6569c61e2f",
+    "url": "/static/media/Lato-Black.f21ec1ef.eot"
+  },
+  {
     "revision": "29a00908df6fafd9ec52a6b96b0ebbea",
     "url": "/static/media/Lato-Black.29a00908.woff"
   },
@@ -28,16 +32,16 @@ self.__precacheManifest = [
     "url": "/static/media/Lato-Black.ddedacae.woff2"
   },
   {
-    "revision": "f0a90cb865919f9bfb63420f6f141aa2",
-    "url": "/static/media/Lato-Bold.f0a90cb8.woff2"
+    "revision": "77d353744697c77955f9bacc7f3ed90a",
+    "url": "/static/media/Lato-Black.77d35374.ttf"
   },
   {
     "revision": "a47d8f9cf715b23d1ed1da4054b56f5f",
     "url": "/static/media/Lato-Bold.a47d8f9c.eot"
   },
   {
-    "revision": "f21ec1ef673d97424fa24c6569c61e2f",
-    "url": "/static/media/Lato-Black.f21ec1ef.eot"
+    "revision": "f0a90cb865919f9bfb63420f6f141aa2",
+    "url": "/static/media/Lato-Bold.f0a90cb8.woff2"
   },
   {
     "revision": "1530e091a2105ca3eb3717a9a1b847fc",
@@ -48,16 +52,12 @@ self.__precacheManifest = [
     "url": "/static/media/Lato-Bold.44dfe8cc.ttf"
   },
   {
-    "revision": "77d353744697c77955f9bacc7f3ed90a",
-    "url": "/static/media/Lato-Black.77d35374.ttf"
+    "revision": "39a3905085ad34aa621eaccdd6b70440",
+    "url": "/static/media/Lato-Regular.39a39050.eot"
   },
   {
     "revision": "cf8f04a0911906a290e59925a9fc4886",
     "url": "/static/media/Lato-Regular.cf8f04a0.woff2"
-  },
-  {
-    "revision": "39a3905085ad34aa621eaccdd6b70440",
-    "url": "/static/media/Lato-Regular.39a39050.eot"
   },
   {
     "revision": "d2f6258a060710d74acc296e3f35c8ed",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/static/media/Lato-Light.5b761f2d.ttf"
   },
   {
-    "revision": "12a775a869126d644c4de1b96b6f66bf",
+    "revision": "edc76eeafaa9135b8aa5f765925bdee7",
     "url": "/index.html"
   }
 ];
