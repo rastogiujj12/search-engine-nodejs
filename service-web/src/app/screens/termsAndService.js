@@ -75,10 +75,10 @@ export class TermsAndService extends Component {
                                 The audio and video materials, photographs, text, graphics, logos, layouts,
                                 designs, interfaces, software, data and other content associated with the
                                 Services (“Content”) are protected by intellectual property and other laws
-                                in the U.K. and in other countries. You must comply with all such laws and
+                                in the CAN and in other countries. You must comply with all such laws and
                                 applicable copyright, trademark or other legal notices or restrictions. You
                                 shall not remove or alter any copyright, trademark, or other legal notices
-                                marked on the Content. As between you and explorenow, explorenow.nl will
+                                marked on the Content. As between you and scourinternet, scourinternet.com will
                                 retain all right, title, and interest in and to the Services and the
                                 Content. No transfer of ownership to any portion of the Content shall be
                                 made as a result of any access you are granted. Except as specifically
@@ -218,7 +218,7 @@ export class TermsAndService extends Component {
                             </ol>
                             <p>
                                 You must obtain our written permission for commercial use of the Content or
-                                the Services. If you wish to license Content from the Services, please    <u><a href="mailto:contact@explorenow.nl">contact us</a></u>.
+                                the Services. If you wish to license Content from the Services, please    <u><a href="mailto:contact@scourinternet.com">contact us</a></u>.
                             </p>
                             <ul>
                                 <li>
@@ -228,11 +228,11 @@ export class TermsAndService extends Component {
                                 </li>
                             </ul>
                             <p>
-                                Explorenow.nl and its affiliates respects intellectual property rights. If
+                                Scourinternet.com and its affiliates respects intellectual property rights. If
                                 you believe that Content on the Services infringes your copyright, please
-                                follow our procedures for making a    <u><a href="mailto:copyright@explorenow.nl">copyright infringement claim</a></u>
+                                follow our procedures for making a    <u><a href="mailto:copyright@scourinternet.com">copyright infringement claim</a></u>
                                 . If you have a legal complaint other than a copyright claim, please follow
-                                our procedure for making    <u><a href="mailto:legal@explorenow.nl">other legal complaints</a></u>.
+                                our procedure for making    <u><a href="mailto:legal@scourinternet.com">other legal complaints</a></u>.
                             </p>
                             <ul>
                                 <li>
@@ -246,7 +246,7 @@ export class TermsAndService extends Component {
                                 text, or other materials, including so-called “user generated content” and
                                 “feedback” (collectively, “<strong>User Submissions</strong>”) to or
                                 through the Services. When you provide User Submissions, you grant to
-                                explorenow.nl and its affiliates a non-exclusive, worldwide, royalty-free,
+                                scourinternet.com and its affiliates a non-exclusive, worldwide, royalty-free,
                                 perpetual, irrevocable, fully sublicenseable license to use, reproduce,
                                 archive, edit, translate, create derivative works of, make available,
                                 distribute, sell, display, perform, transmit, broadcast and in any other
@@ -304,7 +304,7 @@ export class TermsAndService extends Component {
                             </p>
                             <p>
                                 You bear all responsibility for your User Submissions. You represent and
-                                warrant that you have all rights necessary to grant to explorenow.nl the
+                                warrant that you have all rights necessary to grant to scourinternet.com the
                                 license above and that your User Submissions do not violate Section 11.
                             </p>
                             <ul>
@@ -358,7 +358,7 @@ export class TermsAndService extends Component {
                                         available via in-line links, otherwise display the Services or
                                         Content in connection with an unauthorized logo or mark, or do
                                         anything that could falsely suggest a relationship between the
-                                        explorenow.nl or its affiliates and any third party or potentially
+                                        scourinternet.com or its affiliates and any third party or potentially
                                         deprive us of revenue (including, without limitation, revenue from
                                         advertising, branding, or promotional activities);
                                     </p>
@@ -422,7 +422,7 @@ export class TermsAndService extends Component {
                                     <p>
                                         Transmit, collect, or access personally identifiable information
                                         about other users without the consent of those users and
-                                        explorenow.nl;
+                                        scourinternet.com;
                                     </p>
                                 </li>
                                 <li>
@@ -502,7 +502,7 @@ export class TermsAndService extends Component {
                             <p>
                                 We will not be liable to you or any third party for taking any of these
                                 actions and we will not be limited to the remedies above if you violate
-                                these Terms. If explorenow.nl terminates your access to any of the Services,
+                                these Terms. If scourinternet.com terminates your access to any of the Services,
                                 you must immediately stop using such Service. However, if you have paid for
                                 a subscription to All Access or another paid Service, and we discontinue
                                 the Service before the end of a paid subscription period, or we terminate
@@ -520,15 +520,15 @@ export class TermsAndService extends Component {
                                 </li>
                             </ul>
                             <p>
-                                You will defend, indemnify and hold harmless explorenow.nl, its affiliates,
+                                You will defend, indemnify and hold harmless scourinternet.com, its affiliates,
                                 and their respective directors, officers, employees, shareholders, vendors,
                                 partners, contractors, agents, licensors or other representatives and all
-                                of their successors and assigns (collectively, the “    <strong>explorenow.nl Parties</strong>”) with respect to all third party
+                                of their successors and assigns (collectively, the “    <strong>scourinternet.com Parties</strong>”) with respect to all third party
                                 claims, costs (including attorney’s fees and costs), damages, liabilities,
                                 and expenses or obligations of any kind, arising out of or in connection
                                 with your use or misuse of the Services (including, without limitation use
                                 of your account, whether or not authorized by you, and claims arising from
-                                User Submissions). explorenow.nl retains the right to assume the exclusive
+                                User Submissions). scourinternet.com retains the right to assume the exclusive
                                 defense and control of any claim subject to indemnification, and in such
                                 cases you agree to cooperate with us to defend such claim.
                             </p>
@@ -536,7 +536,7 @@ export class TermsAndService extends Component {
                                 <strong>Disclaimers; Limitation of Liability</strong>
                             </p>
                             <p>
-                                THE explorenow.nl PARTIES DO NOT WARRANT: (1) THAT THE SERVICES, ANY OF THE
+                                THE SCOURINTERNET.COM PARTIES DO NOT WARRANT: (1) THAT THE SERVICES, ANY OF THE
                                 SERVICES’ FUNCTIONS OR ANY CONTENT WILL BE UNINTERRUPTED OR FREE OF ERRORS
                                 OR OMISSIONS; (2) THAT DEFECTS WILL BE CORRECTED; (3) THAT THE SERVICES OR
                                 THE SERVERS HOSTING THEM ARE FREE OF VIRUSES OR OTHER HARMFUL CODE; OR (4)
@@ -557,30 +557,30 @@ export class TermsAndService extends Component {
                                 SERVICES.
                             </p>
                             <p>
-                                THE explorenow.nl PARTIES WILL NOT BE LIABLE FOR ANY FAILURE OR DELAY IN
+                                THE SCOURINTERNET.COM PARTIES WILL NOT BE LIABLE FOR ANY FAILURE OR DELAY IN
                                 THEIR PERFORMANCE DUE TO ANY CAUSE BEYOND THEIR REASONABLE CONTROL,
                                 INCLUDING ACTS OF WAR, ACTS OF GOD, ACTS OF THIRD PARTIES, EARTHQUAKE,
                                 FLOOD, EMBARGO, RIOT, SABOTAGE, LABOR SHORTAGE OR DISPUTE, GOVERNMENTAL
                                 ACT, POWER FAILURE OR FAILURE OF THE INTERNET OR COMPUTER EQUIPMENT.
                             </p>
                             <p>
-                                THE explorenow.nl PARTIES WILL NOT BE LIABLE TO YOU OR ANYONE ELSE FOR ANY
+                                THE sSCOURINTERNET.COM PARTIES WILL NOT BE LIABLE TO YOU OR ANYONE ELSE FOR ANY
                                 SPECIAL, INDIRECT, INCIDENTAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES
                                 IN CONNECTION WITH THE SERVICES (INCLUDING THEIR FUNCTIONS AND CONTENT),
                                 YOUR USE OF THE SERVICES (INCLUDING THEIR FUNCTIONS AND CONTENT), THESE
                                 TERMS OR YOUR USER SUBMISSIONS, EVEN IF FORESEEABLE OR EVEN IF ONE OR MORE
-                                OF THE explorenow.nl PARTIES HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+                                OF THE SCOURINTERNET.COM PARTIES HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
                                 DAMAGES (INCLUDING, WITHOUT LIMITATION, WHETHER CAUSED IN WHOLE OR IN PART
                                 BY NEGLIGENCE, GROSS NEGLIGENCE, OR OTHERWISE, BUT EXCLUDING WILLFUL
                                 MISCONDUCT).
                             </p>
                             <p>
                                 YOU ACKNOWLEDGE AND AGREE THAT IF YOU INCUR ANY DAMAGES THAT ARISE OUT OF
-                                THE explorenow.nl PARTIES’ ACTS OR OMISSIONS, THE DAMAGES, IF ANY, ARE NOT
+                                THE SCOURINTERNET.COM PARTIES’ ACTS OR OMISSIONS, THE DAMAGES, IF ANY, ARE NOT
                                 IRREPARABLE AND ARE NOT SUFFICIENT TO ENTITLE YOU TO AN INJUNCTION OR OTHER
                                 EQUITABLE RELIEF RESTRICTING OPERATION OF THE SERVICES OR ANY OTHER
                                 SERVICE, PROPERTY, PRODUCT, OR OTHER CONTENT OWNED OR CONTROLLED BY THE
-                                explorenow.nl PARTIES.
+                                SCOURINTERNET.COM PARTIES.
                             </p>
                             <ul>
                                 <li>
@@ -592,14 +592,14 @@ export class TermsAndService extends Component {
                             <p>
                                 These Terms and all claims as between you and us arising from or related to
                                 your use of the Services will be governed by and construed in accordance
-                                with the laws of the State of United Kingdom. These Terms will not be
-                                governed by the United Nations Convention on Contracts for the
+                                with the laws of the State of Canada. These Terms will not be
+                                governed by the Canadian Convention on Contracts for the
                                 International Sale of Goods, if applicable.
                             </p>
                             <p>
                                 With respect to any disputes or claims not subject to arbitration (as set
                                 forth below), you agree to jurisdiction in the state and federal courts in
-                                Birmingham, United Kingdom. Notwithstanding any other provision of these
+                                Toronto, Canada. Notwithstanding any other provision of these
                                 Terms, we may seek injunctive or other equitable relief from any court of
                                 competent jurisdiction.
                             </p>
@@ -620,13 +620,13 @@ export class TermsAndService extends Component {
                                 If you have any dispute with or claim against us or any of our affiliates,
                                 or if we have a dispute with or claim against you, in either case arising
                                 out of or relating to the Services or these Terms (a “    <strong>Claim</strong>”), and the Claim is not resolved by contacting our
-                                legal department at    <u><a href="mailto:legal@explorenow.nl">legal@explorenow.nl</a></u>, you and
+                                legal department at    <u><a href="mailto:legal@scourinternet.com">legal@scourinternet.com</a></u>, you and
                                 we each agree to resolve such Claim through an individual binding
                                 arbitration or through an individual action in small claims court in the
-                                U.K. county (or parish) of your residence or in Birmingham, United Kingdom.
+                                CAN county (or parish) of your residence or in Toronto, Canada.
                                 Class arbitrations and class actions are not permitted, and your Claim may
                                 not be consolidated with any other person’s claim. You and we agree that
-                                the U.K. Federal Arbitration Act governs the interpretation and enforcement
+                                the CAN Federal Arbitration Act governs the interpretation and enforcement
                                 of this provision, and that you and we are each waiving the right to a
                                 trial by jury or to participate in a class action. This Section 11 shall
                                 survive termination of these Terms or any subscription that you may have to
@@ -634,11 +634,11 @@ export class TermsAndService extends Component {
                             </p>
                             <p>
                                 Before you or we commence an arbitration or file a small claims court
-                                action with respect to a Claim, you must first send to explorenow.nl a
+                                action with respect to a Claim, you must first send to scourinternet.com a
                                 written notice of your claim or we must send a written notice of our claim
                                 to you (“<strong>Notice</strong>“). Your Notice must (1) be sent by
-                                certified mail; (2) be addressed to: Legal Department, explorenow.nl, 62
-                                Shenstone Road, Great Barr, Birmingham, B43 5LN ; (3) describe the nature
+                                certified mail; (2) be addressed to: Legal Department, scourinternet.com, 
+                                25 Ontario Street, Toronto, ON, M5A 3XS ; (3) describe the nature
                                 of your Claim; and (4) specify the damages or other relief you seek. If we
                                 and you do not then resolve the Claim within 30 days after our receipt of
                                 Notice is received, either you or we may commence an arbitration or file a

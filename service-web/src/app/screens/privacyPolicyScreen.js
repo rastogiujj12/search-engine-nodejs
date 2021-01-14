@@ -16,16 +16,16 @@ export class PrivacyPolicyScreen extends Component {
                         <div className="privacy-content-row">
                             <p>
                                 This Privacy Policy applies to information collected about you by the
-                                explorenow.nl. Please review this Privacy Policy carefully. In addition,
+                                scourinternet.com. Please review this Privacy Policy carefully. In addition,
                                 please review our Terms of Use, which governs your use of the website
-                                explorenow.nl. By using any of the website services, you acknowledge the
+                                scourinternet.com. By using any of the website services, you acknowledge the
                                 data collection practices and purposes outlined in this Privacy Policy.
                             </p>
                             <p>
                                 <strong>TYPES OF INFORMATION WE COLLECT</strong>
                             </p>
                             <p>
-                                When you use explorenow.nl, we collect a few different types, or
+                                When you use scourinternet.com, we collect a few different types, or
                                 “categories,” of information. This information generally falls within three
                                 broad categories: (a) the information you provide to us, (b) the
                                 information we collect automatically when you use our services, and (c)
@@ -41,7 +41,7 @@ export class PrivacyPolicyScreen extends Component {
                                 We and our service providers operating on our behalf, other businesses who
                                 collect information on our pages, may automatically collect or receive
                                 certain information associated with you and/or your device(s) as part of
-                                your use of the explorenow.nl through device-based tracking technologies
+                                your use of the scourinternet.com through device-based tracking technologies
                                 such as cookies, pixels, tags, beacons, scripts or other technology. The
                                 information we collect automatically includes geolocation data, such as (a)
                                 information that identifies the precise location of your mobile device
@@ -55,7 +55,7 @@ export class PrivacyPolicyScreen extends Component {
                                 <strong>Information We Obtain From Other Sources</strong>
                             </p>
                             <p>
-                                The explorenow.nl collects information about you from other sources, such as
+                                The scourinternet.com collects information about you from other sources, such as
                                 publicly available databases and other third parties that have the right to
                                 share your personal information. The categories of information we get from
                                 these other sources include:
@@ -97,7 +97,7 @@ export class PrivacyPolicyScreen extends Component {
                                 <li>
                                     <p>
                                         Account and profile data from third-party sources. If you access a
-                                        explorenow.nl Service through one of the services, we may receive
+                                        scourinternet.com Service through one of the services, we may receive
                                         your username and password for those services and other information
                                         available about you or collected from you on those services, used
                                         to customize content and advertising and learn about our audiences
@@ -281,7 +281,7 @@ export class PrivacyPolicyScreen extends Component {
                                 You have certain options and rights related to the information we collect
                                 and how that information is used. While we must continue to collect and
                                 store certain information that is required to allow you to take advantage
-                                of certain features and services offered on explorenow.nl or to comply with
+                                of certain features and services offered on scourinternet.com or to comply with
                                 legal, financial or other operational or regulatory requirements, your
                                 options for managing your information and privacy choices include:
                             </p>
@@ -324,14 +324,14 @@ export class PrivacyPolicyScreen extends Component {
                                 to help protect your information from loss, misuse, unauthorized access,
                                 and alteration. Please note that no data transmission or storage can be
                                 guaranteed to be 100% secure. We want you to feel confident using
-                                explorenow.nl Services but we cannot ensure or warrant the security of any
+                                scourinternet.com Services but we cannot ensure or warrant the security of any
                                 information you transmit to us.
                             </p>
                             <p>
                                 <strong>INTERNATIONAL TRANSFERS</strong>
                             </p>
                             <p>
-                                We are headquartered in the United Kingdom and has affiliate offices and
+                                We are headquartered in the Canada and has affiliate offices and
                                 partners in other countries. Please be aware that information you provide
                                 to us or that we obtain as a result of your use of the website Services may
                                 be collected in your country and subsequently transferred to the United
@@ -341,7 +341,7 @@ export class PrivacyPolicyScreen extends Component {
                                 residence. Your personal information may be subject to the laws of the
                                 country to which it is transferred and may be accessible without notice to
                                 you by the courts, law enforcement and national security authorities of
-                                that country. By using explorenow.nl Services or providing us with your
+                                that country. By using scourinternet.com Services or providing us with your
                                 information, you acknowledge the collection, international transfer,
                                 storage, and processing of your information.
                             </p>
@@ -351,10 +351,10 @@ export class PrivacyPolicyScreen extends Component {
                             <p>
                                 Most website Services are intended for a general audience and do not
                                 knowingly collect or store contact information about children under the age
-                                of 13 in the United Kingdom or the appropriate age for services directed
+                                of 13 in the Canada or the appropriate age for services directed
                                 toward children as defined under applicable laws in other jurisdictions.
                                 Some Services may ask for your full date of birth date to ensure that they
-                                are not collecting information from children under 13 in the United Kingdom
+                                are not collecting information from children under 13 in the Canada
                                 or the appropriate age for services directed toward children as defined
                                 under applicable laws in other jurisdictions or to identify when additional
                                 steps may need to be taken when information has been collected from
@@ -384,7 +384,7 @@ export class PrivacyPolicyScreen extends Component {
                                 changes to the way we use personal information we collect, we will notify
                                 you in advance by email through the email address you most recently
                                 provided to us or by prominently posting a prominent notice of the changes
-                                on the Explorenow.nl Services. We will not use information we have already
+                                on the Scourinternet.com Services. We will not use information we have already
                                 collected in a different way than we have described here, without your
                                 consent.
                             </p>
@@ -392,15 +392,14 @@ export class PrivacyPolicyScreen extends Component {
                                 <strong>QUESTIONS</strong>
                             </p>
                             <p>
-                                If you have questions regarding this Privacy Policy, please contact us at    <a href="mailto:privacy@explorenow.nl">privacy@explorenow.nl</a> and we will
+                                If you have questions regarding this Privacy Policy, please contact us at    <a href="mailto:privacy@scourinternet.com">privacy@scourinternet.com</a> and we will
                                 endeavor to respond to your request within a reasonable period of time. You
                                 may also submit questions or comments using the postal address listed
                                 below:
                             </p>
                             <p>
                                 <strong>
-                                    Strawinskylaan 3051 Atrium Building 4th Floor,
-                                    1077 ZX Amsterdam, Netherlands
+                                25 Ontario Street, Toronto, ON, M5A 3XS
                                 </strong>
                             </p>
                             <p>
