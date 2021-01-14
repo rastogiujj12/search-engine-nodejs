@@ -75,7 +75,7 @@ export class TermsAndService extends Component {
                                 The audio and video materials, photographs, text, graphics, logos, layouts,
                                 designs, interfaces, software, data and other content associated with the
                                 Services (“Content”) are protected by intellectual property and other laws
-                                in the U.K. and in other countries. You must comply with all such laws and
+                                in the N.L. and in other countries. You must comply with all such laws and
                                 applicable copyright, trademark or other legal notices or restrictions. You
                                 shall not remove or alter any copyright, trademark, or other legal notices
                                 marked on the Content. As between you and explorenow, explorenow.nl will
@@ -536,13 +536,13 @@ export class TermsAndService extends Component {
                                 <strong>Disclaimers; Limitation of Liability</strong>
                             </p>
                             <p>
-                                THE explorenow.nl PARTIES DO NOT WARRANT: (1) THAT THE SERVICES, ANY OF THE
+                                THE EXPLORENOW.NL PARTIES DO NOT WARRANT: (1) THAT THE SERVICES, ANY OF THE
                                 SERVICES’ FUNCTIONS OR ANY CONTENT WILL BE UNINTERRUPTED OR FREE OF ERRORS
                                 OR OMISSIONS; (2) THAT DEFECTS WILL BE CORRECTED; (3) THAT THE SERVICES OR
                                 THE SERVERS HOSTING THEM ARE FREE OF VIRUSES OR OTHER HARMFUL CODE; OR (4)
                                 THAT THE SERVICES OR INFORMATION AVAILABLE THROUGH THE SERVICES WILL
-                                CONTINUE TO BE AVAILABLE. THE CBS INTERACTIVE PARTIES SHALL HAVE NO
-                                LIABILITY FOR ANY SUCH ISSUES. THE CBS INTERACTIVE PARTIES DISCLAIM ANY
+                                CONTINUE TO BE AVAILABLE. THE PARTIES SHALL HAVE NO
+                                LIABILITY FOR ANY SUCH ISSUES. THE PARTIES DISCLAIM ANY
                                 EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION,
                                 NONINFRINGEMENT, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE,
                                 AND AS TO QUALITY, AVAILABILITY AND SUBJECT MATTER OF CONTENT. THE
@@ -557,30 +557,30 @@ export class TermsAndService extends Component {
                                 SERVICES.
                             </p>
                             <p>
-                                THE explorenow.nl PARTIES WILL NOT BE LIABLE FOR ANY FAILURE OR DELAY IN
+                                THE EXPLORENOW.NL PARTIES WILL NOT BE LIABLE FOR ANY FAILURE OR DELAY IN
                                 THEIR PERFORMANCE DUE TO ANY CAUSE BEYOND THEIR REASONABLE CONTROL,
                                 INCLUDING ACTS OF WAR, ACTS OF GOD, ACTS OF THIRD PARTIES, EARTHQUAKE,
                                 FLOOD, EMBARGO, RIOT, SABOTAGE, LABOR SHORTAGE OR DISPUTE, GOVERNMENTAL
                                 ACT, POWER FAILURE OR FAILURE OF THE INTERNET OR COMPUTER EQUIPMENT.
                             </p>
                             <p>
-                                THE explorenow.nl PARTIES WILL NOT BE LIABLE TO YOU OR ANYONE ELSE FOR ANY
+                                THE EXPLORENOW.NL PARTIES WILL NOT BE LIABLE TO YOU OR ANYONE ELSE FOR ANY
                                 SPECIAL, INDIRECT, INCIDENTAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES
                                 IN CONNECTION WITH THE SERVICES (INCLUDING THEIR FUNCTIONS AND CONTENT),
                                 YOUR USE OF THE SERVICES (INCLUDING THEIR FUNCTIONS AND CONTENT), THESE
                                 TERMS OR YOUR USER SUBMISSIONS, EVEN IF FORESEEABLE OR EVEN IF ONE OR MORE
-                                OF THE explorenow.nl PARTIES HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+                                OF THE EXPLORENOW.NL PARTIES HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
                                 DAMAGES (INCLUDING, WITHOUT LIMITATION, WHETHER CAUSED IN WHOLE OR IN PART
                                 BY NEGLIGENCE, GROSS NEGLIGENCE, OR OTHERWISE, BUT EXCLUDING WILLFUL
                                 MISCONDUCT).
                             </p>
                             <p>
                                 YOU ACKNOWLEDGE AND AGREE THAT IF YOU INCUR ANY DAMAGES THAT ARISE OUT OF
-                                THE explorenow.nl PARTIES’ ACTS OR OMISSIONS, THE DAMAGES, IF ANY, ARE NOT
+                                THE EXPLORENOW.NL PARTIES’ ACTS OR OMISSIONS, THE DAMAGES, IF ANY, ARE NOT
                                 IRREPARABLE AND ARE NOT SUFFICIENT TO ENTITLE YOU TO AN INJUNCTION OR OTHER
                                 EQUITABLE RELIEF RESTRICTING OPERATION OF THE SERVICES OR ANY OTHER
                                 SERVICE, PROPERTY, PRODUCT, OR OTHER CONTENT OWNED OR CONTROLLED BY THE
-                                explorenow.nl PARTIES.
+                                EXPLORENOW.NL PARTIES.
                             </p>
                             <ul>
                                 <li>
@@ -592,14 +592,14 @@ export class TermsAndService extends Component {
                             <p>
                                 These Terms and all claims as between you and us arising from or related to
                                 your use of the Services will be governed by and construed in accordance
-                                with the laws of the State of United Kingdom. These Terms will not be
-                                governed by the United Nations Convention on Contracts for the
+                                with the laws of the State of Netherlands. These Terms will not be
+                                governed by the Netherlands Convention on Contracts for the
                                 International Sale of Goods, if applicable.
                             </p>
                             <p>
                                 With respect to any disputes or claims not subject to arbitration (as set
                                 forth below), you agree to jurisdiction in the state and federal courts in
-                                Birmingham, United Kingdom. Notwithstanding any other provision of these
+                                Amsterdam, Netherlands. Notwithstanding any other provision of these
                                 Terms, we may seek injunctive or other equitable relief from any court of
                                 competent jurisdiction.
                             </p>
@@ -623,10 +623,10 @@ export class TermsAndService extends Component {
                                 legal department at    <u><a href="mailto:legal@explorenow.nl">legal@explorenow.nl</a></u>, you and
                                 we each agree to resolve such Claim through an individual binding
                                 arbitration or through an individual action in small claims court in the
-                                U.K. county (or parish) of your residence or in Birmingham, United Kingdom.
+                                N.L. county (or parish) of your residence or in Amsterdam, Netherlands.
                                 Class arbitrations and class actions are not permitted, and your Claim may
                                 not be consolidated with any other person’s claim. You and we agree that
-                                the U.K. Federal Arbitration Act governs the interpretation and enforcement
+                                the N.L. Federal Arbitration Act governs the interpretation and enforcement
                                 of this provision, and that you and we are each waiving the right to a
                                 trial by jury or to participate in a class action. This Section 11 shall
                                 survive termination of these Terms or any subscription that you may have to
@@ -637,8 +637,8 @@ export class TermsAndService extends Component {
                                 action with respect to a Claim, you must first send to explorenow.nl a
                                 written notice of your claim or we must send a written notice of our claim
                                 to you (“<strong>Notice</strong>“). Your Notice must (1) be sent by
-                                certified mail; (2) be addressed to: Legal Department, explorenow.nl, 62
-                                Shenstone Road, Great Barr, Birmingham, B43 5LN ; (3) describe the nature
+                                certified mail; (2) be addressed to: Legal Department, explorenow.nl, 
+                                Strawinskylaan 3051 Atrium Building 4th Floor, 1077 ZX Amsterdam, Netherlands ; (3) describe the nature
                                 of your Claim; and (4) specify the damages or other relief you seek. If we
                                 and you do not then resolve the Claim within 30 days after our receipt of
                                 Notice is received, either you or we may commence an arbitration or file a
