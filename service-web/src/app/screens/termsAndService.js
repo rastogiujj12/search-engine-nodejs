@@ -75,7 +75,7 @@ export class TermsAndService extends Component {
                                 The audio and video materials, photographs, text, graphics, logos, layouts,
                                 designs, interfaces, software, data and other content associated with the
                                 Services (“Content”) are protected by intellectual property and other laws
-                                in the U.K. and in other countries. You must comply with all such laws and
+                                in the F.R. and in other countries. You must comply with all such laws and
                                 applicable copyright, trademark or other legal notices or restrictions. You
                                 shall not remove or alter any copyright, trademark, or other legal notices
                                 marked on the Content. As between you and scavengeus, scavengeus.org will
@@ -626,7 +626,7 @@ export class TermsAndService extends Component {
                                 F.R. county (or parish) of your residence or in Paris, France.
                                 Class arbitrations and class actions are not permitted, and your Claim may
                                 not be consolidated with any other person’s claim. You and we agree that
-                                the U.K. Federal Arbitration Act governs the interpretation and enforcement
+                                the F.R. Federal Arbitration Act governs the interpretation and enforcement
                                 of this provision, and that you and we are each waiving the right to a
                                 trial by jury or to participate in a class action. This Section 11 shall
                                 survive termination of these Terms or any subscription that you may have to
