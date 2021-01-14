@@ -334,8 +334,8 @@ export class PrivacyPolicyScreen extends Component {
                                 We are headquartered in the Canada and has affiliate offices and
                                 partners in other countries. Please be aware that information you provide
                                 to us or that we obtain as a result of your use of the website Services may
-                                be collected in your country and subsequently transferred to the United
-                                Kingdom or another country in accordance with applicable law. The privacy
+                                be collected in your country and subsequently transferred to the Canada
+                                or another country in accordance with applicable law. The privacy
                                 and data protection laws in the country to which your information is
                                 transferred may not be equivalent to such laws in your country of
                                 residence. Your personal information may be subject to the laws of the
