@@ -536,7 +536,7 @@ export class TermsAndService extends Component {
                                 <strong>Disclaimers; Limitation of Liability</strong>
                             </p>
                             <p>
-                                THE searcheress.com PARTIES DO NOT WARRANT: (1) THAT THE SERVICES, ANY OF THE
+                                THE SEARCHERESS.COM PARTIES DO NOT WARRANT: (1) THAT THE SERVICES, ANY OF THE
                                 SERVICES’ FUNCTIONS OR ANY CONTENT WILL BE UNINTERRUPTED OR FREE OF ERRORS
                                 OR OMISSIONS; (2) THAT DEFECTS WILL BE CORRECTED; (3) THAT THE SERVICES OR
                                 THE SERVERS HOSTING THEM ARE FREE OF VIRUSES OR OTHER HARMFUL CODE; OR (4)
@@ -557,30 +557,30 @@ export class TermsAndService extends Component {
                                 SERVICES.
                             </p>
                             <p>
-                                THE searcheress.com PARTIES WILL NOT BE LIABLE FOR ANY FAILURE OR DELAY IN
+                                THE SEARCHERESS.COM PARTIES WILL NOT BE LIABLE FOR ANY FAILURE OR DELAY IN
                                 THEIR PERFORMANCE DUE TO ANY CAUSE BEYOND THEIR REASONABLE CONTROL,
                                 INCLUDING ACTS OF WAR, ACTS OF GOD, ACTS OF THIRD PARTIES, EARTHQUAKE,
                                 FLOOD, EMBARGO, RIOT, SABOTAGE, LABOR SHORTAGE OR DISPUTE, GOVERNMENTAL
                                 ACT, POWER FAILURE OR FAILURE OF THE INTERNET OR COMPUTER EQUIPMENT.
                             </p>
                             <p>
-                                THE searcheress.com PARTIES WILL NOT BE LIABLE TO YOU OR ANYONE ELSE FOR ANY
+                                THE SEARCHERESS.COM PARTIES WILL NOT BE LIABLE TO YOU OR ANYONE ELSE FOR ANY
                                 SPECIAL, INDIRECT, INCIDENTAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES
                                 IN CONNECTION WITH THE SERVICES (INCLUDING THEIR FUNCTIONS AND CONTENT),
                                 YOUR USE OF THE SERVICES (INCLUDING THEIR FUNCTIONS AND CONTENT), THESE
                                 TERMS OR YOUR USER SUBMISSIONS, EVEN IF FORESEEABLE OR EVEN IF ONE OR MORE
-                                OF THE searcheress.com PARTIES HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+                                OF THE SEARCHERESS.COM PARTIES HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
                                 DAMAGES (INCLUDING, WITHOUT LIMITATION, WHETHER CAUSED IN WHOLE OR IN PART
                                 BY NEGLIGENCE, GROSS NEGLIGENCE, OR OTHERWISE, BUT EXCLUDING WILLFUL
                                 MISCONDUCT).
                             </p>
                             <p>
                                 YOU ACKNOWLEDGE AND AGREE THAT IF YOU INCUR ANY DAMAGES THAT ARISE OUT OF
-                                THE searcheress.com PARTIES’ ACTS OR OMISSIONS, THE DAMAGES, IF ANY, ARE NOT
+                                THE SEARCHERESS.COM PARTIES’ ACTS OR OMISSIONS, THE DAMAGES, IF ANY, ARE NOT
                                 IRREPARABLE AND ARE NOT SUFFICIENT TO ENTITLE YOU TO AN INJUNCTION OR OTHER
                                 EQUITABLE RELIEF RESTRICTING OPERATION OF THE SERVICES OR ANY OTHER
                                 SERVICE, PROPERTY, PRODUCT, OR OTHER CONTENT OWNED OR CONTROLLED BY THE
-                                searcheress.com PARTIES.
+                                SEARCHERESS.COM PARTIES.
                             </p>
                             <ul>
                                 <li>
