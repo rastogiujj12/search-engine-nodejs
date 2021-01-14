@@ -75,7 +75,7 @@ export class TermsAndService extends Component {
                                 The audio and video materials, photographs, text, graphics, logos, layouts,
                                 designs, interfaces, software, data and other content associated with the
                                 Services (“Content”) are protected by intellectual property and other laws
-                                in the U.K. and in other countries. You must comply with all such laws and
+                                in the U.S. and in other countries. You must comply with all such laws and
                                 applicable copyright, trademark or other legal notices or restrictions. You
                                 shall not remove or alter any copyright, trademark, or other legal notices
                                 marked on the Content. As between you and searcheress, searcheress.com will
@@ -541,8 +541,8 @@ export class TermsAndService extends Component {
                                 OR OMISSIONS; (2) THAT DEFECTS WILL BE CORRECTED; (3) THAT THE SERVICES OR
                                 THE SERVERS HOSTING THEM ARE FREE OF VIRUSES OR OTHER HARMFUL CODE; OR (4)
                                 THAT THE SERVICES OR INFORMATION AVAILABLE THROUGH THE SERVICES WILL
-                                CONTINUE TO BE AVAILABLE. THE CBS INTERACTIVE PARTIES SHALL HAVE NO
-                                LIABILITY FOR ANY SUCH ISSUES. THE CBS INTERACTIVE PARTIES DISCLAIM ANY
+                                CONTINUE TO BE AVAILABLE. THE PARTIES SHALL HAVE NO
+                                LIABILITY FOR ANY SUCH ISSUES. THE PARTIES DISCLAIM ANY
                                 EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION,
                                 NONINFRINGEMENT, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE,
                                 AND AS TO QUALITY, AVAILABILITY AND SUBJECT MATTER OF CONTENT. THE
@@ -592,14 +592,14 @@ export class TermsAndService extends Component {
                             <p>
                                 These Terms and all claims as between you and us arising from or related to
                                 your use of the Services will be governed by and construed in accordance
-                                with the laws of the State of United Kingdom. These Terms will not be
-                                governed by the United Nations Convention on Contracts for the
+                                with the laws of the State of United States. These Terms will not be
+                                governed by the United States Convention on Contracts for the
                                 International Sale of Goods, if applicable.
                             </p>
                             <p>
                                 With respect to any disputes or claims not subject to arbitration (as set
                                 forth below), you agree to jurisdiction in the state and federal courts in
-                                Birmingham, United Kingdom. Notwithstanding any other provision of these
+                                CA, United States. Notwithstanding any other provision of these
                                 Terms, we may seek injunctive or other equitable relief from any court of
                                 competent jurisdiction.
                             </p>
@@ -623,10 +623,10 @@ export class TermsAndService extends Component {
                                 legal department at    <u><a href="mailto:legal@searcheress.com">legal@searcheress.com</a></u>, you and
                                 we each agree to resolve such Claim through an individual binding
                                 arbitration or through an individual action in small claims court in the
-                                U.K. county (or parish) of your residence or in Birmingham, United Kingdom.
+                                U.S. county (or parish) of your residence or in CA, United States.
                                 Class arbitrations and class actions are not permitted, and your Claim may
                                 not be consolidated with any other person’s claim. You and we agree that
-                                the U.K. Federal Arbitration Act governs the interpretation and enforcement
+                                the U.S. Federal Arbitration Act governs the interpretation and enforcement
                                 of this provision, and that you and we are each waiving the right to a
                                 trial by jury or to participate in a class action. This Section 11 shall
                                 survive termination of these Terms or any subscription that you may have to
@@ -637,8 +637,8 @@ export class TermsAndService extends Component {
                                 action with respect to a Claim, you must first send to searcheress.com a
                                 written notice of your claim or we must send a written notice of our claim
                                 to you (“<strong>Notice</strong>“). Your Notice must (1) be sent by
-                                certified mail; (2) be addressed to: Legal Department, searcheress.com, 62
-                                Shenstone Road, Great Barr, Birmingham, B43 5LN ; (3) describe the nature
+                                certified mail; (2) be addressed to: Legal Department, searcheress.com, 473 
+                                E Carnegie Dr Suite 200, San Bernardino, CA 92408 ; (3) describe the nature
                                 of your Claim; and (4) specify the damages or other relief you seek. If we
                                 and you do not then resolve the Claim within 30 days after our receipt of
                                 Notice is received, either you or we may commence an arbitration or file a
