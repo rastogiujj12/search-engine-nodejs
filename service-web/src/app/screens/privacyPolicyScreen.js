@@ -331,11 +331,11 @@ export class PrivacyPolicyScreen extends Component {
                                 <strong>INTERNATIONAL TRANSFERS</strong>
                             </p>
                             <p>
-                                We are headquartered in the United Kingdom and has affiliate offices and
+                                We are headquartered in the France and has affiliate offices and
                                 partners in other countries. Please be aware that information you provide
                                 to us or that we obtain as a result of your use of the website Services may
-                                be collected in your country and subsequently transferred to the United
-                                Kingdom or another country in accordance with applicable law. The privacy
+                                be collected in your country and subsequently transferred to the France
+                                or another country in accordance with applicable law. The privacy
                                 and data protection laws in the country to which your information is
                                 transferred may not be equivalent to such laws in your country of
                                 residence. Your personal information may be subject to the laws of the
@@ -351,10 +351,10 @@ export class PrivacyPolicyScreen extends Component {
                             <p>
                                 Most website Services are intended for a general audience and do not
                                 knowingly collect or store contact information about children under the age
-                                of 13 in the United Kingdom or the appropriate age for services directed
+                                of 13 in the France or the appropriate age for services directed
                                 toward children as defined under applicable laws in other jurisdictions.
                                 Some Services may ask for your full date of birth date to ensure that they
-                                are not collecting information from children under 13 in the United Kingdom
+                                are not collecting information from children under 13 in the France
                                 or the appropriate age for services directed toward children as defined
                                 under applicable laws in other jurisdictions or to identify when additional
                                 steps may need to be taken when information has been collected from
