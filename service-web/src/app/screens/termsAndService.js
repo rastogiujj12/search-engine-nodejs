@@ -564,7 +564,7 @@ export class TermsAndService extends Component {
                                 ACT, POWER FAILURE OR FAILURE OF THE INTERNET OR COMPUTER EQUIPMENT.
                             </p>
                             <p>
-                                THE sSCOURINTERNET.COM PARTIES WILL NOT BE LIABLE TO YOU OR ANYONE ELSE FOR ANY
+                                THE SCOURINTERNET.COM PARTIES WILL NOT BE LIABLE TO YOU OR ANYONE ELSE FOR ANY
                                 SPECIAL, INDIRECT, INCIDENTAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES
                                 IN CONNECTION WITH THE SERVICES (INCLUDING THEIR FUNCTIONS AND CONTENT),
                                 YOUR USE OF THE SERVICES (INCLUDING THEIR FUNCTIONS AND CONTENT), THESE
