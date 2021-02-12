@@ -2,7 +2,7 @@ const keystone = require('keystone');
 const Types = keystone.Field.Types;
 
 const Incoming_IP = new keystone.List('Incoming_IP', {
-    track: {createdAt:true,},
+    track: true,
     nocreate: true,
 });
 
